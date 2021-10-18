@@ -3,4 +3,4 @@ voila-material
 bqplot
 ipywidgets
 numpy
-matplotlib.pyplot
+matplotlib
