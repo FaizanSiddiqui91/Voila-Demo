@@ -2,3 +2,5 @@ voila
 voila-material
 bqplot
 ipywidgets
+numpy
+matplotlib.pyplot
